@@ -1,5 +1,5 @@
 # career-paths-in-tech
-A collaborative guide by Nathan Nyakundi,Angel Kuraru,Kayla Wambui,Travis,shee
+A collaborative guide by Nathan Nyakundi,Angel Kuraru,Kayla Wambui,Travis,Mary Wanjiku
 ## Table of contents
 - [Introduction](#introduction)
 - [Networking & IT support](#networking--it-support)
