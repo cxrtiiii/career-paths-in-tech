@@ -134,3 +134,5 @@ git clone https://github.com/example/repository.git
 * [Nielsen Norman Group](https://www.nngroup.com/) - UX research and articles.
 * [Figma Tutorials](https://www.figma.com/resource-library/design-basics/) - Learn UI/UX design tools.
 * [UX Planet](https://uxplanet.org/) - Community platform for everything related to user experience.
+## AI Engineering
+* [Roboflow Model Troubleshooting](https://roboflow.com/) - Resources for fixing image recognition misclassifications and dataset edge cases.
