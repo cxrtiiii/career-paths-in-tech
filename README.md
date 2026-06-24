@@ -68,6 +68,34 @@ User Experience (UX) Designers focus on the interaction that humans have with ev
 Figma Learn: https://help.figma.com/
 Interaction Design Foundation: https://www.interaction-design.org/
 Google UX Design Certificate: https://grow.google/certificates/ux-design/
+## UX Design
+* [Nielsen Norman Group](https://www.nngroup.com/) - UX research and articles.
+* [Figma Tutorials](https://www.figma.com/resource-library/design-basics/) - Learn UI/UX design tools.
+* [UX Planet](https://uxplanet.org/) - Community platform for everything related to user experience.
+## Installation Instructions for Recommended Tools
+
+### Visual Studio Code
+1. Visit https://code.visualstudio.com/
+2. Download the version for your operating system.
+3. Run the installer and complete the setup.
+
+### Git
+1. Visit https://git-scm.com/downloads
+2. Download Git for your operating system.
+3. Install using the default settings.
+
+### Docker
+1. Visit https://www.docker.com/products/docker-desktop/
+2. Download Docker Desktop.
+3. Install and restart your computer if required.
+
+### Figma
+1. Visit https://www.figma.com/downloads/
+2. Download the desktop application or use the web version.
+
+### Miro
+1. Visit https://miro.com/
+2. Use the web version or download the desktop app.
 # DevOps Engineer-karemeri
 
 ## What is a DevOps Engineer?
@@ -132,31 +160,3 @@ git clone https://github.com/example/repository.git
 ## Quote
 
 > "Automation is good, so long as you know exactly where to put the machine."
-## UX Design
-* [Nielsen Norman Group](https://www.nngroup.com/) - UX research and articles.
-* [Figma Tutorials](https://www.figma.com/resource-library/design-basics/) - Learn UI/UX design tools.
-* [UX Planet](https://uxplanet.org/) - Community platform for everything related to user experience.
-## Installation Instructions for Recommended Tools
-
-### Visual Studio Code
-1. Visit https://code.visualstudio.com/
-2. Download the version for your operating system.
-3. Run the installer and complete the setup.
-
-### Git
-1. Visit https://git-scm.com/downloads
-2. Download Git for your operating system.
-3. Install using the default settings.
-
-### Docker
-1. Visit https://www.docker.com/products/docker-desktop/
-2. Download Docker Desktop.
-3. Install and restart your computer if required.
-
-### Figma
-1. Visit https://www.figma.com/downloads/
-2. Download the desktop application or use the web version.
-
-### Miro
-1. Visit https://miro.com/
-2. Use the web version or download the desktop app.
